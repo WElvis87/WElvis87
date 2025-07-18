@@ -1,21 +1,20 @@
 <!-- Header banner (optional) -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/assets/banner.gif" alt="banner" width="100%">
+  <img src="https://github.com/WElvis87/WElvis87/assets/banner.gif" alt="banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Elvis Wanjohi</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | Analyst</h3>
 
 ---
 
 ### 📌 About Me
 
-🎓 Final-year CS student at JKUAT  
+🎓 Computer Technology graduand at JKUAT  
 🌍 Based in Kenya — focused on building real-world data-driven solutions  
 🔬 Currently working on malaria outbreak prediction using climate data  
 📊 Passionate about data science, open source, and effective communication through visuals  
-🧠 Exploring MLOps, time series forecasting, and model deployment  
-✍️ Writing about data, models, and real-world impact  
+🧠 Exploring MLOps, time series forecasting, and model deployment 
 
 ---
 
@@ -38,12 +37,12 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WElvis87&show_icons=true&theme=default&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WElvis87&theme=default&hide_border=false" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=default" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WElvis87&theme=default" width="100%">
 </p>
 
 ---
@@ -57,13 +56,6 @@
 | [Telegram Dex Bot](https://github.com/YOUR_USERNAME/telegram-dex-bot) | A Telegram bot to view token holder data via Dexscreener API. | `Python`, `Telethon`, `API`, `UI Buttons` |
 
 ---
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Malaria Prediction Model for Kenya](https://yourblog.com/malaria-prediction)
-- [Top 5 Free Datasets for Data Science Projects in Africa](https://yourblog.com/free-datasets-africa)
-<!-- BLOG-POST-LIST:END -->
 
 > Want this section auto-updated? Use GitHub Actions with [dev.to-github-blog-action](https://github.com/gautamkrishnar/blog-post-workflow)
 
