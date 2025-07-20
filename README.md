@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Elvis Wanjohi</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Analyst</h3>
+<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast </h3>
 
 ---
 
