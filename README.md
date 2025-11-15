@@ -51,8 +51,8 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Malaria Prediction](https://github.com/YOUR_USERNAME/malaria-prediction) | Predicts malaria cases using climate and county health data for Kenya. | `Python`, `Random Forest`, `Pandas`, `Tableau` |
-| [Healthcare Readmissions](https://github.com/YOUR_USERNAME/healthcare-readmission) | Machine learning project to predict patient readmissions based on hospital data. | `Logistic Regression`, `Pandas`, `Seaborn`, `Tableau` |
+| [Malaria Prediction](https://github.com/WElvis/Climalaria) | Predicts malaria cases in Kenyan Counties based on Climatic conditions. | `Python`, `Random Forest`, `Pandas`, `Tableau` |
+| [Zillow House Price Prediction](https://github.com/WElvis87/Zillow-House-Price-Prediction) | The project aims at predicting the prices of houses listed on zillow based on demographical factors. | `Logistic Regression`, `Pandas`, `Seaborn`, `Tableau`, `Matplorlib` |
 | [Telegram Dex Bot](https://github.com/YOUR_USERNAME/telegram-dex-bot) | A Telegram bot to view token holder data via Dexscreener API. | `Python`, `Telethon`, `API`, `UI Buttons` |
 
 ---
