@@ -34,6 +34,20 @@
 
 ---
 
+## 🧩 How I Use My Tools
+
+- **Python** — Core language for analytics, machine learning, automation, and end-to-end data workflows.
+- **Pandas** — Data cleaning, preprocessing, manipulation, feature engineering, and exploratory analysis.
+- **NumPy** — Fast numerical computing and building optimized data structures for ML pipelines.
+- **Scikit-Learn** — Training machine learning models (classification, regression, clustering), feature selection, evaluation, and model tuning.
+- **Tableau** — Interactive dashboards, geospatial analysis, business intelligence storytelling, and KPI reporting.
+- **SQL** — Extracting, transforming, and querying structured data from relational databases.
+- **Matplotlib** — Fine-grained control for static visualizations and custom plot designs.
+- **Seaborn** — Quick statistical charts for trends, relationships, and distribution analysis.
+- **Jupyter** — Experimentation environment for data exploration, notebooks, prototypes, and documentation.
+- **Git & GitHub** — Version control, collaborative workflows, CI/CD integration, and open-source contributions.
+
+
 ### 🔥 GitHub Stats
 
 <p align="center">
