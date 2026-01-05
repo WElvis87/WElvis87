@@ -65,10 +65,10 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Malaria Prediction](https://github.com/WElvis87/Climalaria) | Predicts malaria cases in Kenyan Counties based on Climatic conditions. | `Python`, `Random Forest`, `Pandas`, `Tableau` |
-| [Zillow House Price Prediction](https://github.com/WElvis87/Zillow-House-Price-Prediction) | The project aims at predicting the prices of houses listed on zillow based on demographical factors. | `Linear Regression`, `Pandas`, `Seaborn`, `Tableau`, `Matplotlib` |
-| [Credit Defaulting](https://github.com/WElvis87/Credit-Defaulting-Detection) | Aimed at predicting the probability of a customer defaulting on their credit in the coming months based on their repayment history and other minor factors like age, marrital status and education. | `Python`, `Logistic Regression`, `Matplotlib`, `Pandas`, `Pandas` |
-| [Loan Application Approval](https://github.com/WElvis87/Credit-Defaulting-Detection) | Aimed at predicting the probability of a customer defaulting on their credit in the coming months based on their repayment history and other minor factors like age, marrital status and education. | `Python`, `Logistic Regression`, `Matplotlib`, `Pandas`, `Pandas` |
+| [Malaria Case Prediction in Kenyan Counties](https://github.com/WElvis87/Malaria-Case-Prediction-in-Kenya-Counties) | Predicts malaria cases in Kenyan Counties based on Climatic conditions. | `Pandas`, `Numpy`, `Scikit Learn`, `Random Forest`, `Matplotlib`, `Tableau` |
+| [Covid 19 Endemic](https://github.com/WElvis87/Endemic-360) | This project is about the Covid 19 Endemic. Aims at predicting recurrence of covid19 and applys ML to aid in resource allocation | `Pandas`, `Matplotlib`, `Logistic Regression`, `Random Forest`, `XGBoost`|
+| [KPLC Power Fraud Detection](https://github.com/WElvis87/KPLC-Power-Fraud-Detection)) | Predicts any fraudilent activities with regards to power. Uses factors like location, climate & power consumption patterns to predictive possible power fraud.  | `Pandas`, `Numpy`, `Scikit Learn`, `XGBoost`, `Matplotlib` |
+| [MPESA Fraud Detection](https://github.com/WElvis87/MPESA-Fraud-Detection) | Predicts financial fraud in the MPESA mobile money payment system. | `Python`, `Pandas`, `Numpy`, `Random Forest`, `Matplotlib`, |
 
 
 ### 🌐 Let's Connect
