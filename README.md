@@ -12,7 +12,7 @@
 
 🎓 Computer Technology graduate at JKUAT  
 🌍 Based in Kenya — focused on building real-world data-driven solutions  
-🔬 Currently working on malaria outbreak prediction using climate data  
+🔬 Currently working on application of machine learning to real world problems especially those that affect Kenya
 📊 Passionate about data science, open source, and effective communication through visuals  
 🧠 Exploring MLOps, time series forecasting, and model deployment 
 
@@ -49,10 +49,13 @@
 
 
 ### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WElvis87&show_icons=true" />
-</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=WElvis87&show_icons=true&theme=default&hide_border=false" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WElvis87&theme=default&hide_border=false" width="48%"/> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WElvis87&theme=default" width="100%"> 
+</p> 
 
 ---
 
