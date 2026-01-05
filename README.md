@@ -10,7 +10,7 @@
 
 ### 📌 About Me
 
-🎓 Computer Technology graduand at JKUAT  
+🎓 Computer Technology graduate at JKUAT  
 🌍 Based in Kenya — focused on building real-world data-driven solutions  
 🔬 Currently working on malaria outbreak prediction using climate data  
 📊 Passionate about data science, open source, and effective communication through visuals  
