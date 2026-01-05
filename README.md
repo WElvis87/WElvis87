@@ -51,9 +51,9 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WElvis87&show_icons=true&theme=default" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WElvis87&theme=default" width="48%"/>
+  <img src="https://metrics.lecoq.io/WElvis87" width="100%"/>
 </p>
+
 ---
 
 ### 🚀 Featured Projects
