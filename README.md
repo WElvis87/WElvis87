@@ -51,7 +51,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/WElvis87" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WElvis87&show_icons=true" />
 </p>
 
 ---
