@@ -86,7 +86,7 @@
   <a href="e.wanjohi587@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/WElvis87" target="_blank">
+  <a href="https://github.com/WElvis87?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FFA500?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
 </p>
