@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Elvis Wanjohi</h1>
 <h3 align="center">Data Scientist | Data Analyst | </h3>
 
-<h3"> 
+<h3> 
 I analyze real-world datasets to uncover insights, build predictive models, and support data-driven decision-making — with a strong focus on prominent problems in Kenya.
 </h3>
 
