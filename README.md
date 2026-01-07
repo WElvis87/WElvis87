@@ -13,17 +13,16 @@ I analyze real-world datasets to uncover insights, build predictive models, and 
 
 ---
 
-### 📌 About Me
+### 🚀 Featured Projects
 
-🎓 Computer Technology graduate at JKUAT  
-🌍 Based in Kenya — focused on building real-world data-driven solutions  
-🔬 Currently working on application of machine learning to real world problems especially those that affect Kenya
-📊 Passionate about data science, open source, and effective communication through visuals  
-🧠 Exploring MLOps, time series forecasting, and model deployment 
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Malaria Case Prediction in Kenyan Counties](https://github.com/WElvis87/Malaria-Case-Prediction-in-Kenya-Counties) | Predicts malaria cases in Kenyan Counties based on Climatic conditions. | `Pandas`, `Numpy`, `Scikit Learn`, `Random Forest`, `Matplotlib`, `Tableau` |
+| [Covid 19 Endemic](https://github.com/WElvis87/Endemic-360) | This project is about the Covid 19 Endemic. Aims at predicting recurrence of covid19 and applys ML to aid in resource allocation | `Pandas`, `Matplotlib`, `Logistic Regression`, `Random Forest`, `XGBoost`|
+| [KPLC Power Fraud Detection](https://github.com/WElvis87/KPLC-Power-Fraud-Detection) | Predicts any fraudilent activities with regards to power. Uses factors like location, climate & power consumption patterns to predictive possible power fraud.  | `Pandas`, `Numpy`, `Scikit Learn`, `XGBoost`, `Matplotlib` |
+| [MPESA Fraud Detection](https://github.com/WElvis87/MPESA-Fraud-Detection) | Predicts financial fraud in the MPESA mobile money payment system. | `Python`, `Pandas`, `Numpy`, `Random Forest`, `Matplotlib`, |
 
----
-
-### 🛠️ Tools & Technologies
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,15 +62,6 @@ I analyze real-world datasets to uncover insights, build predictive models, and 
 </p> 
 
 ---
-
-### 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Malaria Case Prediction in Kenyan Counties](https://github.com/WElvis87/Malaria-Case-Prediction-in-Kenya-Counties) | Predicts malaria cases in Kenyan Counties based on Climatic conditions. | `Pandas`, `Numpy`, `Scikit Learn`, `Random Forest`, `Matplotlib`, `Tableau` |
-| [Covid 19 Endemic](https://github.com/WElvis87/Endemic-360) | This project is about the Covid 19 Endemic. Aims at predicting recurrence of covid19 and applys ML to aid in resource allocation | `Pandas`, `Matplotlib`, `Logistic Regression`, `Random Forest`, `XGBoost`|
-| [KPLC Power Fraud Detection](https://github.com/WElvis87/KPLC-Power-Fraud-Detection) | Predicts any fraudilent activities with regards to power. Uses factors like location, climate & power consumption patterns to predictive possible power fraud.  | `Pandas`, `Numpy`, `Scikit Learn`, `XGBoost`, `Matplotlib` |
-| [MPESA Fraud Detection](https://github.com/WElvis87/MPESA-Fraud-Detection) | Predicts financial fraud in the MPESA mobile money payment system. | `Python`, `Pandas`, `Numpy`, `Random Forest`, `Matplotlib`, |
 
 
 ### 🌐 Let's Connect
