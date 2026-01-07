@@ -4,7 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Elvis Wanjohi</h1>
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast </h3>
+<h3 align="center">Data Scientist | Data Analyst | </h3>
+
+<h3"> 
+I analyze real-world datasets to uncover insights, build predictive models, and support data-driven decision-making — with a strong focus on prominent problems in Kenya.
+</h3>
+
 
 ---
 
@@ -77,9 +82,6 @@
   </a>
   <a href="https://x.com/emwanjohi" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/>
   </a>
   <a href="e.wanjohi587@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
