@@ -21,6 +21,9 @@ I analyze real-world datasets to uncover insights, build predictive models, and 
 | [Covid 19 Endemic](https://github.com/WElvis87/Endemic-360) | This project is about the Covid 19 Endemic. Aims at predicting recurrence of covid19 and applys ML to aid in resource allocation | `Pandas`, `Matplotlib`, `Logistic Regression`, `Random Forest`, `XGBoost`|
 | [KPLC Power Fraud Detection](https://github.com/WElvis87/KPLC-Power-Fraud-Detection) | Predicts any fraudilent activities with regards to power. Uses factors like location, climate & power consumption patterns to predictive possible power fraud.  | `Pandas`, `Numpy`, `Scikit Learn`, `XGBoost`, `Matplotlib` |
 | [MPESA Fraud Detection](https://github.com/WElvis87/MPESA-Fraud-Detection) | Predicts financial fraud in the MPESA mobile money payment system. | `Python`, `Pandas`, `Numpy`, `Random Forest`, `Matplotlib`, |
+| [Data Jobs Tableau Dashboard](https://github.com/WElvis87/Tableau-Dashboard-Data-Jobs-World-Wide) | A Dashboard that analyzes and visualizes data jobs around the world | `Tableau` |
+| [Malaria Cases in Kenyan Counties Tableau Dashboard](https://github.com/WElvis87/Tableau-Dashboard-Malaria-Cases-in-Kenya) | A Dashboard that analyzes malaria cases in kenyan counties and the relation to climatic conditions | `Tableau` |
+
 
 ### 🛠️ Tech Stack
 
