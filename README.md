@@ -31,11 +31,22 @@ I also build and scale AI and machine learning solutions that help organizations
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XGBoost-337AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -44,17 +55,21 @@ I also build and scale AI and machine learning solutions that help organizations
 ---
 
 ## 🧩 How I Use My Tools
+- Python — Core language for analytics, machine learning, automation, and end-to-end data workflows.
+- Pandas — Data cleaning, preprocessing, manipulation, feature engineering, and exploratory analysis.
+- NumPy — Numerical computing and efficient data operations for analytics and machine learning.
+- Scikit-Learn — Building and evaluating classification, regression, and clustering models; feature selection and model tuning.
+- TensorFlow, PyTorch & Keras — Developing and training deep learning models, including neural networks.
+- Hugging Face Transformers — Working with pretrained models for natural language processing and generative AI.
+- Generative AI & LLM APIs — Building applications with large language models, prompt workflows, and model integrations.
+- Agentic AI frameworks — Orchestrating AI agents and multi-step workflows with tools such as LangChain, LangGraph, or CrewAI.
+- Tableau — Creating interactive dashboards, geospatial analysis, and KPI reports to communicate business insights.
+- SQL — Extracting, transforming, and querying structured data from relational databases.
+- Matplotlib — Creating static visualizations with detailed control over plots and design.
+- Seaborn — Producing statistical charts to explore trends, relationships, and distributions.
+- Jupyter — Exploring data, prototyping analyses, experimenting with models, and documenting workflows.
+- Git & GitHub — Managing version control, collaborating on projects, and supporting CI/CD workflows.
 
-- **Python** — Core language for analytics, machine learning, automation, and end-to-end data workflows.
-- **Pandas** — Data cleaning, preprocessing, manipulation, feature engineering, and exploratory analysis.
-- **NumPy** — Fast numerical computing and building optimized data structures for ML pipelines.
-- **Scikit-Learn** — Training machine learning models (classification, regression, clustering), feature selection, evaluation, and model tuning.
-- **Tableau** — Interactive dashboards, geospatial analysis, business intelligence storytelling, and KPI reporting.
-- **SQL** — Extracting, transforming, and querying structured data from relational databases.
-- **Matplotlib** — Fine-grained control for static visualizations and custom plot designs.
-- **Seaborn** — Quick statistical charts for trends, relationships, and distribution analysis.
-- **Jupyter** — Experimentation environment for data exploration, notebooks, prototypes, and documentation.
-- **Git & GitHub** — Version control, collaborative workflows, CI/CD integration, and open-source contributions.
 
 
 ### 🔥 GitHub Stats
