@@ -7,7 +7,9 @@
 <h3 align="center">Data Scientist | Data Analyst | </h3>
 
 <h3> 
-I analyze real-world datasets to uncover insights, build predictive models, and support data-driven decision-making — with a strong focus on prominent problems in Kenya.
+I turn data into clearer decisions for stronger results. From reporting and trend analysis to customer insights and forecasting, I uncover opportunities to improve day-to-day operations and drive growth.
+
+I also build and scale AI and machine learning solutions that help organizations forecast, automate processes, make better decisions and manage risk. By connecting technical possibilities with business priorities, I help teams work more efficiently, grow with confidence, and stay competitive.
 </h3>
 
 
